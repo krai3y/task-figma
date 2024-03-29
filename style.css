@@ -1,0 +1,152 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1620px;
+    }
+    .header-news {
+        max-width: 1500px;
+    }
+}
+
+@media (max-width: 992px) {
+    .marg-top {
+        margin-top: 20px !important;
+}
+    .marg-left-0 {
+        margin-left: 0 !important;
+}
+    .pad-left-12 {
+        padding-left: 12px !important;
+    }
+    .pad-right-12 {
+        padding-right: 12px !important;
+    }
+    .marg-bottom{
+        margin-bottom: 20px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .padg-right-0 {
+        padding-right: 0 !important;
+    }
+    .index-table-768 {
+        padding: 10px 10px !important;
+        font-size: 0.8rem;
+    }
+    .img-768{
+        width: 300px;
+    }
+    .padding-0{
+        padding: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .img-576{
+        width: 300px !important;
+    }
+    .pad-left-12-576 {
+        padding-left: 12px !important;
+    }
+    .pad-right-12-576 {
+        padding-right: 12px !important;
+    }
+}
+
+@media (max-width: 340px) {
+    .img-340 {
+        width: 100px;
+    }
+    .pad-left-0-340{
+        padding-left: 0;
+    }
+    .pad-0-340{
+        padding: 0 !important;
+    }
+}
+
+.header-btn{
+    border-radius: 15px;
+    background: #4170B7;
+}
+
+.color-blue {
+    color: #02409F;
+}
+
+.color-light-blue{
+    color: #4170B7;
+}
+
+.bg-blue{
+    background-color: #4170B7;
+}
+
+.title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #02409F;
+}
+
+.index-bb {
+    border-radius: 40px;
+    box-shadow: 0px 4px 50px 0px #00000040;
+}
+
+.padding-70 {
+    padding: 78px 70px;
+}
+
+.btn-sqr{
+    width:383px;
+    border: 1px solid #FD7C58 !important;
+    border-radius: 15px;
+    height: 66px;
+}
+
+.btn-sqr2{
+    width:300px;
+    background: #FD7C58;
+    border-radius: 15px;
+    height: 66px;
+}
+
+.bg-1 {
+    background: url('svg/miu1.png') top no-repeat;
+}
+
+.bg-2{
+    background: url('svg/miu2.png') bottom no-repeat;
+}
+
+.bg-3{
+    background: url('svg/miu2.png') top no-repeat;
+}
+
+.bg-4{
+    background: url('svg/miu3.png') bottom no-repeat;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.marg-top-20{
+    margin-top: 20px !important;
+}
+
+.container-modal{
+    border-radius: 40px;
+    font-size: 20px;
+}
+
+.modal-text{
+    height: 90px;
+    border-radius: 15px;
+}
+
+.height-75{
+    height: 75px;
+}
+
+  
