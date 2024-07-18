@@ -1,9 +1,6 @@
 <?php include("header_main.php");?>
 <?php include("modal_auth.php");?>
 <?php include("modal_ask.php");?>
-<div class="container">
-  <img src="svg/mm.svg" alt="Image" class="top-right-image">
-</div>
 <div class="container" style="margin: 180px auto;">
   <div class="row">
     <div class="col text-center text-sm-start">
@@ -70,7 +67,7 @@
     </div>
   </div>
 </div>
-<div class="bg-1" style="margin: 130px 0 190px">
+<div class="bg-title2" style="margin: 130px 0 190px">
   <h3 class="text-white text-center pb-5" style="padding-top: 100px;">Тарифы на электроэнергию в Архангельской области</h3>
   <div class="container bg-white index-bb padding-70 index-table-768 overflow-auto">
       <table class="table text-center border-secondary">
@@ -222,7 +219,7 @@
         </div> 
     </div>
 </div>
-<div class="bg-2" style="margin-top: 140px;">
+<div class="bg-title" style="margin-top: 140px;">
   <div class="container bg-white index-bb">
   <div class="row" style="padding: 60px 0">
     <div class="col-lg marg-left-0 ms-5">

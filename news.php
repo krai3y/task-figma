@@ -2,9 +2,9 @@
 <?php include("modal_ask.php");?>
 <div class="mt-4">
   <div class="bg-blue">
-    <h2 class="text-white text-center mb-0 pb-5" style="padding-top: 70px;">новости</h2> 
+    <h2 class="text-white text-center mb-0 pb-5" style="padding-top: 70px;">Новости</h2> 
   </div>
-  <div class="bg-3">
+  <div class="bg-title2">
     <div class="container bg-white index-bb header-news">
       <div class="row">
         <div class="col-lg d-flex align-items-center" style="padding: 0">

@@ -1,7 +1,7 @@
 <?php include("header.php");?>
 <?php include("modal_ask.php");?>
 <div class="mt-4">
-    <div class="bg-4">
+    <div class="bg-title">
         <div class="container">
             <img class="w-100" src="svg/news_detail_photo.png" alt="">
         </div>

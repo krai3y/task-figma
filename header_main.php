@@ -14,10 +14,10 @@
       <a href="/#main" class="navbar-brand me-2"> 
         <img src="svg/logos.svg" class="brand w-nav-brand"> 
       </a> 
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"> 
+      <button class="navbar-toggler" style="z-index: 2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"> 
         <img src="svg/bur.svg" alt="Burger Icon">
       </button> 
-      <div class="collapse navbar-collapse ms-4 marg-left-0" id="navbarCollapse"> 
+      <div class="collapse navbar-collapse ms-4 marg-left-0" style="z-index: 2" id="navbarCollapse"> 
         <ul class="navbar-nav ml-auto"> 
           <li class="nav-item"> 
             <a href="/#about" class="nav-link color-blue ps-0">О предприятии</a> 
