@@ -32,11 +32,11 @@
             <a href="/#contacts" class="nav-link color-blue">Контакты</a> 
           </li> 
         </ul>
-      </div> 
-      <div class="collapse navbar-collapse d-grid gap-2 d-sm-flex justify-content-md-end" id="navbarCollapse"> 
+        <div class="collapse navbar-collapse d-grid gap-2 d-sm-flex justify-content-md-end" id="navbarCollapse"> 
           <a href="user.php" class="btn text-white header-btn"><img src="svg/user.svg"> Личный кабинет</a> 
           <a href="#" class="btn header-btn" data-bs-toggle="modal" data-bs-target="#secondModal"><img src="svg/vector.svg"></a> 
-      </div> 
+        </div>
+      </div>  
     </div> 
   </nav> 
-</header> 
+</header>

@@ -6,13 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link href="style.css" rel="stylesheet">
-  <style>
-    body {
-      position: relative;
-      background: url('svg/mm.svg') top right no-repeat;
-      background-size: 50%;
-    }
-  </style>
 </head>
 <body>
 <header class="main-view mt-3" id="main"> 
@@ -39,11 +32,11 @@
             <a href="/#contacts" class="nav-link color-blue">Контакты</a> 
           </li> 
         </ul>
-      </div> 
-      <div class="collapse navbar-collapse d-grid gap-2 d-sm-flex justify-content-md-end" id="navbarCollapse"> 
+        <div class="collapse navbar-collapse d-grid gap-2 d-sm-flex justify-content-md-end" style="z-index: 2" id="navbarCollapse"> 
           <a href="user.php" class="btn text-white header-btn"><img src="svg/user.svg"> Личный кабинет</a> 
           <a href="#" class="btn header-btn" data-bs-toggle="modal" data-bs-target="#secondModal"><img src="svg/vector.svg"></a> 
-      </div> 
+        </div>
+      </div>  
     </div> 
   </nav> 
 </header> 

@@ -123,6 +123,10 @@
     background: url('svg/miu2.png') top no-repeat;
 }
 
+.bg-title {
+    background: linear-gradient(to bottom, #FFFFFF 80%, #4170B7 20%);
+}
+
 .bg-4{
     background: url('svg/miu3.png') bottom no-repeat;
 }
@@ -149,4 +153,15 @@
     height: 75px;
 }
 
+body .miu {
+    position: relative;
+    background: url('svg/mm.svg') top right no-repeat;
+    background-size: 50%;
+}
+.top-right-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+  }
   

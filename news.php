@@ -1,29 +1,33 @@
 <?php include("header.php");?>
 <?php include("modal_ask.php");?>
-<div class="bg-3">
-  <h2 class="text-white text-center pb-5" style="padding-top: 70px;">Новости</h2>
-  <div class="container bg-white index-bb header-news">
-    <div class="row">
-      <div class="col-lg d-flex align-items-center" style="padding: 0">
-        <img class="w-100" src="svg/news1.png" alt="">
-      </div>
-      <div class="col ms-3 me-4">
-        <div class="row mt-5">
-          <div class="col">
-            <h5 class="mb-4 fs-5 fw-bold lh-base">Тариф на электроэнергию для квартир с электроплитами: как получить льготу?</h5>
-          </div>
+<div class="mt-4">
+  <div class="bg-blue">
+    <h2 class="text-white text-center mb-0 pb-5" style="padding-top: 70px;">новости</h2> 
+  </div>
+  <div class="bg-3">
+    <div class="container bg-white index-bb header-news">
+      <div class="row">
+        <div class="col-lg d-flex align-items-center" style="padding: 0">
+          <img class="w-100" src="svg/news1.png" alt="">
         </div>
-        <div class="row">
-          <div class="col">
-            <p class="mb-4 fs-5 lh-base">Если плита на кухне электрическая, а не газовая, то тариф на электроэнергию будет ниже на 30%. Это своего рода льгота, которая предоставляется жильцами, чтобы компенсировать им более высокий расход электричества. И вот вопрос: как собственнику квартиры этот самый льготный тариф получить? Давайте разберемся...</p>
+        <div class="col ms-3 me-4">
+          <div class="row mt-5">
+            <div class="col">
+              <h5 class="mb-4 fs-5 fw-bold lh-base">Тариф на электроэнергию для квартир с электроплитами: как получить льготу?</h5>
+            </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col">
-            <a class="fst-italic text-secondary" href="news_detail.php">Подробнее<img src="svg/line.svg" alt=""></a>
+          <div class="row">
+            <div class="col">
+              <p class="mb-4 fs-5 lh-base">Если плита на кухне электрическая, а не газовая, то тариф на электроэнергию будет ниже на 30%. Это своего рода льгота, которая предоставляется жильцами, чтобы компенсировать им более высокий расход электричества. И вот вопрос: как собственнику квартиры этот самый льготный тариф получить? Давайте разберемся...</p>
+            </div>
           </div>
-          <div class="col">
-            <p class="text-secondary text-end">13.03.2020</p>
+          <div class="row">
+            <div class="col">
+              <a class="fst-italic text-secondary" href="news_detail.php">Подробнее<img src="svg/line.svg" alt=""></a>
+            </div>
+            <div class="col">
+              <p class="text-secondary text-end">13.03.2020</p>
+            </div>
           </div>
         </div>
       </div>

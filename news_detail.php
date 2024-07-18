@@ -1,11 +1,15 @@
 <?php include("header.php");?>
 <?php include("modal_ask.php");?>
-<div class="bg-4">
-    <div class="container">
-        <img class="w-100" src="svg/news_detail_photo.png" alt="">
+<div class="mt-4">
+    <div class="bg-4">
+        <div class="container">
+            <img class="w-100" src="svg/news_detail_photo.png" alt="">
+        </div>
+    </div>
+    <div class="bg-blue">
         <p class="text-white pt-4 text-center">13.03.2020</p>
         <h2 class="text-white text-center pb-5">Тариф на электроэнергию для квартир с электроплитами: как получить льготу?</h2>
-    </div>
+    </div>        
 </div>
 <div class="container" style="margin-top: 70px;">
     <div class="row fs-5">
@@ -68,10 +72,10 @@
 <div class="container mt-4 pad-0-340">
     <div class="row">
         <div class="col text-end pad-0-340">
-            <p class="color-blue fw-bold fs-4">Поделиться</p>
+            <p class="color-blue fw-bold fs-4 pe-2">Поделиться</p>
         </div>
         <div class="col pad-0-340 pt-2">
-            <div class="ya-share2" data-curtain data-shape="round" data-services="vkontakte,odnoklassniki,telegram,whatsapp"></div>
+            <div class="ya-share2 ps-2" data-curtain data-shape="round" data-services="vkontakte,odnoklassniki,telegram,whatsapp"></div>
         </div>
     </div> 
 </div> 

@@ -1,6 +1,6 @@
 <?php include("header.php");?>
 <?php include("modal_ask.php");?>
-<div class="bg-blue">
+<div class="bg-blue mt-4">
   <h3 class="text-white text-center py-5">Личный кабинет</h3>
 </div>
 <div class="container" style="margin: 80px auto;">
